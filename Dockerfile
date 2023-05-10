@@ -1,5 +1,5 @@
 FROM novicezk/midjourney-proxy
 
-ENV mj.discord.guild-id 1104787197980319916 mj.discord.channel-id 1104787197980319919 mj.discord.user-token MTA3NTExMjg2NTQ4NjM0NDI0Mg.G2OvuV.vB_A5WHj9B9kd01iwc63iWyfQZx-8TSaW-AmMM mj.discord.bot-token MTEwNTQ1MDM1MTI4MjM3Njc2NA.GA5RHw.bQF3HAKVc4PaQi5fYiOgS8FGfxj9LmkE3m3DxY
+ENV mj.discord.guild-id 1105469098915266620 mj.discord.channel-id 1105469099884167271 mj.discord.user-token MTEwNTQyOTM5MjI2MTQwMjY4NA.GPJsZd.cCZeT9utlxSnLJbPsenrYGBnD8KgWZQvfpRerE mj.discord.bot-token MTEwNTgyNjk4MDYyNjE3NDAzMg.Ge0SAQ.VvamWTGdIENrbkG1tM28kjyRXZ6Gy81Roput6w
 
 EXPOSE 8080
