@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /mj
+logging:
+  level:
+    ROOT: info
+    com.github.novicezk.midjourney: debug
+mj:
+  discord:
+    guild-id: xxx
+    channel-id: xxx
+    user-token: xxx
+    bot-token: xxx
+  task-store:
+    type: in_memory
+    timeout: 30d
+  translate-way: null
