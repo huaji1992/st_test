@@ -1,4 +1,4 @@
-FROM novicezk/midjourney-proxy:1.3
+FROM novicezk/midjourney-proxy
 EXPOSE 8080
 ENV mj.discord.guild-id 1104787197980319916
 ENV mj.discord.channel-id 1104787197980319919
